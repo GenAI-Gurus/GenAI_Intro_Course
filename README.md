@@ -1,7 +1,7 @@
 # FREE Generative AI introductory course
 This is a quick introductory course about Generative AI developed by Nilosree Sengupta.
 
-Join our community at http://GenAI-Gurus.com and subscribe to the [Youtube channel](https://youtube.com/@GenAIGurus)
+Join our community at http://GenAI-Gurus.com and subscribe to the [Youtube channel](https://youtube.com/@GenAIGurus) to received future videos directly in your feed!
 
 ## Theory basics
 1. What is generative AI?
@@ -62,15 +62,32 @@ Video soon!
   
 Video soon!
 
+## Related expert talks
+
 If you want to dig deeper into certain concepts, here are some of our expert talks:
-Stable Diffusion: Latent Generative Modeling for Efficient Visual Synthesis: https://youtu.be/6d65X9-kR0g
-Zero to One with LLMs using AWS: https://youtu.be/zdMziFi1epQ
-Fine-tuning LLMs with TensorFlow and GCP: https://youtu.be/YtK1EnNq33Y
-Exploring AudioLM: A bit of paper dissect, a bit of code: https://youtu.be/wxfgZqccaOA
-Self-supervised learning methods: https://youtu.be/9gsIdhaWI5s
-Decentralized LLMs with Hivemind, SWARM and Petals: https://youtu.be/iWx5DacjdRE
-Azure’s AI Symphony: Orchestration, Embeddings and more: https://youtu.be/2dmvDl6jXoQ
 
-If you want to go deeper, we recommend you to do the "Generative AI with LLMs" from DeepLearning.ai: https://www.coursera.org/learn/generative-ai-with-llms
+Stable Diffusion: Latent Generative Modeling for Efficient Visual Synthesis
+[![Latent Generative Modeling for Efficient Visual Synthesis](https://img.youtube.com/vi/6d65X9-kR0g/0.jpg)](https://www.youtube.com/watch?v=6d65X9-kR0g)
 
-Join our community at http://GenAI-Gurus.com
+Zero to One with LLMs using AWS
+[![Zero to One with LLMs using AWS](https://img.youtube.com/vi/zdMziFi1epQ/0.jpg)](https://www.youtube.com/watch?v=zdMziFi1epQ)
+
+
+Fine-tuning LLMs with TensorFlow and GCP
+[![Fine-tuning LLMs with TensorFlow and GCP](https://img.youtube.com/vi/YtK1EnNq33Y/0.jpg)](https://www.youtube.com/watch?v=YtK1EnNq33Y)
+
+Exploring AudioLM: A bit of paper dissect, a bit of code
+[![Exploring AudioLM: A bit of paper dissect, a bit of code](https://img.youtube.com/vi/wxfgZqccaOA/0.jpg)](https://www.youtube.com/watch?v=wxfgZqccaOA)
+
+Self-supervised learning methods
+[![Self-supervised learning methods](https://img.youtube.com/vi/9gsIdhaWI5s/0.jpg)](https://www.youtube.com/watch?v=9gsIdhaWI5s)
+
+Decentralized LLMs with Hivemind, SWARM and Petals
+[![Decentralized LLMs with Hivemind, SWARM and Petals](https://img.youtube.com/vi/iWx5DacjdRE/0.jpg)](https://www.youtube.com/watch?v=iWx5DacjdRE)
+
+Azure’s AI Symphony: Orchestration, Embeddings and more
+[![Azure’s AI Symphony: Orchestration, Embeddings and more](https://img.youtube.com/vi/2dmvDl6jXoQ/0.jpg)](https://www.youtube.com/watch?v=2dmvDl6jXoQ)
+
+If you want to go deeper, we recommend you to do the [Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms) from DeepLearning.ai
+
+Join our community at http://GenAI-Gurus.com and subscribe to the [Youtube channel](https://youtube.com/@GenAIGurus) to received future videos directly in your feed!
