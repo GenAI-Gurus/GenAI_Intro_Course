@@ -1,30 +1,66 @@
-/h1 FREE Generative AI introductory course
-Join our community at http://GenAI-Gurus.com
+# FREE Generative AI introductory course
+This is a quick introductory course about Generative AI developed by Nilosree Sengupta.
 
-In this quick introductory course about Generative AI you'll learn:
-Theory basics
-1. What is generative AI? - https://youtu.be/huKKNTg5hw4
-2. What are LLMs? - https://youtu.be/_IgIF3hU53s
-3. Architecture of LLMs - https://youtu.be/uEBQ-IjDng4
-4. Challenges of LLMs - https://youtu.be/5MzhJ-Aas-k
-5. Social impact, ethical considerations and future - https://youtu.be/ETgtk5Ouqfg
-6. What is Prompt Engineering and how to generate API keys - https://youtu.be/W__WifkqPT8
+Join our community at http://GenAI-Gurus.com and subscribe to the [Youtube channel](https://youtube.com/@GenAIGurus)
 
-Coding implementation of mini-projects
-7. Text Summarization - https://youtu.be/2260Wq5O8vo
-  Code: 
-8. Email generation - https://youtu.be/HXjH9VIa1wI
-  Code:
-9. Poem Generation - https://youtu.be/FuwNRriwTgw
-  Code:
-10. Code Generation - LINK SOON!
-  Code:
-11. Image Generation - LINK SOON!
-  Code: 
-12. Dietitian Chatbot using Gradio - LINK SOON!
-  Code:
-13. Financial Advisor Chatbot using Gradio - LINK SOON!
-  Code: 
+## Theory basics
+1. What is generative AI?
+
+[![What is generative AI?](https://img.youtube.com/vi/huKKNTg5hw4/0.jpg)](https://www.youtube.com/watch?v=huKKNTg5hw4)
+
+2. What are LLMs?
+
+[![What are LLMs?](https://img.youtube.com/vi/_IgIF3hU53s/0.jpg)](https://www.youtube.com/watch?v=_IgIF3hU53s)
+ 
+3. Architecture of LLMs
+
+[![Architecture of LLMs](https://img.youtube.com/vi/uEBQ-IjDng4/0.jpg)](https://www.youtube.com/watch?v=uEBQ-IjDng4)
+ 
+4. Challenges of LLMs
+
+[![Challenges of LLMs](https://img.youtube.com/vi/5MzhJ-Aas-k/0.jpg)](https://www.youtube.com/watch?v=5MzhJ-Aas-k)
+
+
+5. Social impact, ethical considerations and future
+
+[![Social impact, ethical considerations and future](https://img.youtube.com/vi/ETgtk5Ouqfg/0.jpg)](https://www.youtube.com/watch?v=ETgtk5Ouqfg)
+
+6. What is Prompt Engineering and how to generate API keys
+
+[![What is Prompt Engineering and how to generate API keys](https://img.youtube.com/vi/W__WifkqPT8/0.jpg)](https://www.youtube.com/watch?v=W__WifkqPT8)
+
+
+## Coding implementation of mini-projects
+
+7. Text Summarization - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/1_Text%20Summarization.ipynb)
+
+[![Text Summarization](https://img.youtube.com/vi/2260Wq5O8vo/0.jpg)](https://www.youtube.com/watch?v=2260Wq5O8vo)
+
+
+8. Email generation - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/2_Email_generation.ipynb)
+
+[![Email generation](https://img.youtube.com/vi/HXjH9VIa1wI/0.jpg)](https://www.youtube.com/watch?v=HXjH9VIa1wI)
+
+9. Poem Generation - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/3_Poem_generation.ipynb)
+
+[![Poem Generation](https://img.youtube.com/vi/FuwNRriwTgw/0.jpg)](https://www.youtube.com/watch?v=FuwNRriwTgw)
+
+10. Code Generation - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/4_Code_generation.ipynb)
+
+Video soon!
+
+
+11. Image Generation - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/5_Image_generation.ipynb)
+
+Video soon!
+
+12. Dietitian Chatbot using Gradio - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/6_Dietitian%20Chatbot%20using%20Gradio.ipynb)
+
+Video soon!  
+
+13. Financial Advisor Chatbot using Gradio - [Code](https://github.com/GenAI-Gurus/GenAI_Intro_Course/blob/main/7_Financial%20Advisor%20Chatbot%20using%20Gradio.ipynb)
+  
+Video soon!
 
 If you want to dig deeper into certain concepts, here are some of our expert talks:
 Stable Diffusion: Latent Generative Modeling for Efficient Visual Synthesis: https://youtu.be/6d65X9-kR0g
