@@ -67,25 +67,32 @@ Video soon!
 If you want to dig deeper into certain concepts, here are some of our expert talks:
 
 Stable Diffusion: Latent Generative Modeling for Efficient Visual Synthesis
+
 [![Latent Generative Modeling for Efficient Visual Synthesis](https://img.youtube.com/vi/6d65X9-kR0g/0.jpg)](https://www.youtube.com/watch?v=6d65X9-kR0g)
 
 Zero to One with LLMs using AWS
+
 [![Zero to One with LLMs using AWS](https://img.youtube.com/vi/zdMziFi1epQ/0.jpg)](https://www.youtube.com/watch?v=zdMziFi1epQ)
 
 
 Fine-tuning LLMs with TensorFlow and GCP
+
 [![Fine-tuning LLMs with TensorFlow and GCP](https://img.youtube.com/vi/YtK1EnNq33Y/0.jpg)](https://www.youtube.com/watch?v=YtK1EnNq33Y)
 
 Exploring AudioLM: A bit of paper dissect, a bit of code
+
 [![Exploring AudioLM: A bit of paper dissect, a bit of code](https://img.youtube.com/vi/wxfgZqccaOA/0.jpg)](https://www.youtube.com/watch?v=wxfgZqccaOA)
 
 Self-supervised learning methods
+
 [![Self-supervised learning methods](https://img.youtube.com/vi/9gsIdhaWI5s/0.jpg)](https://www.youtube.com/watch?v=9gsIdhaWI5s)
 
 Decentralized LLMs with Hivemind, SWARM and Petals
+
 [![Decentralized LLMs with Hivemind, SWARM and Petals](https://img.youtube.com/vi/iWx5DacjdRE/0.jpg)](https://www.youtube.com/watch?v=iWx5DacjdRE)
 
 Azure’s AI Symphony: Orchestration, Embeddings and more
+
 [![Azure’s AI Symphony: Orchestration, Embeddings and more](https://img.youtube.com/vi/2dmvDl6jXoQ/0.jpg)](https://www.youtube.com/watch?v=2dmvDl6jXoQ)
 
 If you want to go deeper, we recommend you to do the [Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms) from DeepLearning.ai
